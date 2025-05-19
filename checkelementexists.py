@@ -1,4 +1,4 @@
-#To return the maximum number of a list
+#To check for the numbers existence in a list
 arr= list(map(int,input().split()))
 #this prints the entered numbers
 print(arr)
