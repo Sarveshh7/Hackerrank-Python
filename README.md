@@ -1,12 +1,10 @@
-# NeetCode Python Practice
+# HackerRank Python Practice
 
-This repository contains my solutions to coding problems from NeetCode’s Python course.  
+This repository contains my solutions to coding problems from HackerRank’s Python tracks.
+Trying to get better.
 
-Each solution is written in Python, with clear explanations and comments.  
-This repo helps me improve problem-solving skills and prepare for placements.
-
-Feel free to browse and suggest improvements!
+🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/sarveshs7)
 
 ---
 
-*Created by Sarvesh - Computer Science Engineering Student*
+_Sarvesh – Computer Science Student_
